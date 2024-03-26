@@ -7,3 +7,9 @@ Escribir sobre mi...
 ## Contact me
 
 Hacer el cierre, presentando la app
+
+## Technologies
+
+- HTML
+- CSS
+- JS
